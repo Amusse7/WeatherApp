@@ -10,15 +10,11 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Images of the weather App
+![Weather App Once Opened](./src/assets/app-face.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Weather App when adding a city](./src/assets/typing%20city.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Weather App Once API renders the weather](./src/assets/cold-screen.png)
+
+![Weather App Once API returns a warm destination the background changes](./src/assets/warm-screen.png)
